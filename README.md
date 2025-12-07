@@ -1,0 +1,2 @@
+# FireSmokeDetection
+YOLOv10s
